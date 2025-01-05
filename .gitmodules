@@ -1,0 +1,3 @@
+[submodule "src/themes/keepit"]
+	path = src/themes/keepit
+	url = git@github.com:bkavlak/KeepIt.git
