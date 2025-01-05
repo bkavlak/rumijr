@@ -58,7 +58,7 @@ defaultContentLanguage = "tr"
     weight = 3
     title = "rumi jr."
     languageCode = "tr"
-    languageName = "Turkish"
+    languageName = "Türkçe"
     [[languages.tr.menu.main]]
       weight = 1
       identifier = "posts"
